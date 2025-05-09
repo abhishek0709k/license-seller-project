@@ -1,12 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 SoftSell - Software License Resale Landing Page
 
-Currently, two official plugins are available:
+1. Short Description
+   
+SoftSell is a responsive, single-page marketing website built with React and Tailwind CSS for a fictional software resale startup. It showcases the service, builds trust, and encourages users to get in touch for selling their unused software licenses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Key Features
+   
+💡 Hero Section: Engaging headline with a clear call-to-action button.
+🔄 How It Works: Step-by-step guide (Upload License → Get Valuation → Get Paid) with icons.
+⭐ Why Choose Us: Highlighted selling points using responsive cards and icons.
+👥 Customer Testimonials: Two user reviews for trust-building.
+✉️ Contact / Lead Form: Form with Name, Email, Company, License Type (dropdown), and Message — includes frontend validation.
 
-## Expanding the ESLint configuration
+4. Unique Things
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔍 SEO Optimized: Title, meta description, Open Graph tags, and keywords added using react-helmet.
+📱 Fully Responsive: Mobile-first layout with clean and scalable Tailwind utility classes.
+
+4. What It Impacts
+
+This project simulates a professional SaaS marketing website and demonstrates how to structure modern frontend architecture with real-world UI/UX patterns. It shows your ability to:
+Design and build responsive, accessible UIs
+Write semantic and maintainable React components
+Optimize for SEO and branding
+Prepare for production-level frontend deployment
+
+
+Live Link of Project -- 
